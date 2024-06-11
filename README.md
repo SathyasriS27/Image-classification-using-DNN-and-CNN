@@ -16,8 +16,8 @@ In this we will use a subset of images from Tiny ImageNet, which is a subset of 
 * pytorch
 
 ## How the work has been divided 👩🏻‍💻
-1. Funtion Implementation - to get the datasets and the dataloaders
-2. Funtion Implementation - model class for a simple MLP and CNN Model
+1. Function Implementation - to get the datasets and the dataloaders
+2. Function Implementation - model class for a simple MLP and CNN Model
 3. Model Training
 4. Generating Confusion Matrices and ROC
 5. Implementing strategies to tackle overfitting
